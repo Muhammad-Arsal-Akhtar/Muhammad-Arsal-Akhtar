@@ -1,4 +1,4 @@
-## 👋 Hi there! Yeah, you! Arsal here, shaping ideas into digital realities. 
+## 👋 Hi there! Arsal here, shaping ideas into digital realities. 
 
 # **👨‍💻 Software Engineer | 🌐 Web-App Developer | 💻 Full Stack Web Engineer | 🚀 Tech Enthusiast**
 
