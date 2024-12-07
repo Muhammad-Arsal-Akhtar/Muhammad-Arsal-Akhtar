@@ -18,7 +18,7 @@ I'm a passionate senior software engineer with 4+ years of experience in creatin
 ---
 
 ## **Languages and Tools**
-- 🚀 **Laravel**, **Livewire**, **PHP**, **CodeIgniter**, **Vue**  
+- 🚀 **Laravel**, **Livewire**, **PHP**, **CodeIgniter**, **Vue JS**  
 - 🎨 **HTML**, **CSS**, **JavaScript**, **jQuery**, **Bootstrap**, **TailwindCSS**, **Alipne-Js**  
 - 📦 **Git**, **VS Code**, **MySQL**
 
