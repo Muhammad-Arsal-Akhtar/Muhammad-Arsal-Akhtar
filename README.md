@@ -30,7 +30,6 @@ Let's connect and collaborate on exciting projects. Feel free to reach out:
 
 - 📧 **Email**: [arsal3414@gmail.com](mailto:arsal3414@gmail.com)  
 - 💼 **LinkedIn**: [Muhammad Arsal Akhtar](https://www.linkedin.com/in/muhammad-arsal-akhtar-774b44170/)  
-- 🌐 **Website**: [arsal.tech](https://arsal.tech/)
 - 🧑‍💻 **Stack Overflow**: [Muhammad Arsal Akhtar](https://stackoverflow.com/users/12010244/muhammad-arsal-akhtar)
 
 ---
