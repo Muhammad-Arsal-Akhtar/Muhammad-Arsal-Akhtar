@@ -6,7 +6,7 @@
 
 ## **About Me**
 
-I'm a passionate senior software engineer with 4+ years of experience in creating web applications and software solutions. My mission is to build elegant, efficient, and user-friendly software that solves real-world problems.
+I'm a passionate senior software engineer with 3+ years of experience in creating web applications and software solutions. My mission is to build elegant, efficient, and user-friendly software that solves real-world problems.
 
 - 🔭 I’m currently working on **Khudi Ventures**, building innovative web applications.  
 - 🌱 I’m always learning and staying updated with the latest technologies to improve my skills.  
